@@ -1,0 +1,480 @@
+\begin{thebibliography}{10}
+
+\bibitem{text-search/open-deep-search}
+Salaheddin Alzubi, Creston Brooks, Purva Chiniya, Edoardo Contente, Chiara von
+  Gerlach, Lucas Irwin, Yihan Jiang, Arda Kaz, Windsor Nguyen, Sewoong Oh,
+  et~al.
+\newblock Open deep search: Democratizing search with open-source reasoning
+  agents.
+\newblock {\em arXiv preprint arXiv:2503.20201}, 2025.
+
+\bibitem{lmm/claude-3.5}
+{Anthropic}.
+\newblock {Claude 3.5 Sonnet}.
+\newblock \url{https://www.anthropic.com/news/claude-3-5-sonnet/}.
+\newblock Technical Report, 2024.
+
+\bibitem{text-rag/selfrag-inference}
+Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, and Hannaneh Hajishirzi.
+\newblock Self-rag: Learning to retrieve, generate, and critique through
+  self-reflection.
+\newblock In {\em The Twelfth International Conference on Learning
+  Representations}, 2023.
+
+\bibitem{dataset/mint-1t}
+Anas Awadalla, Le~Xue, Oscar Lo, Manli Shu, Hannah Lee, Etash Guha, Sheng Shen,
+  Mohamed Awadalla, Silvio Savarese, Caiming Xiong, et~al.
+\newblock Mint-1t: Scaling open-source multimodal data by 10x: A multimodal
+  dataset with one trillion tokens.
+\newblock {\em Advances in Neural Information Processing Systems}, 2024.
+
+\bibitem{lmm/qw25vl}
+Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai
+  Dang, Peng Wang, Shijie Wang, Jun Tang, et~al.
+\newblock Qwen2. 5-vl technical report.
+\newblock {\em arXiv preprint arXiv:2502.13923}, 2025.
+
+\bibitem{intro/pretrain-limit-2}
+Hoyeon Chang, Jinho Park, Seonghyeon Ye, Sohee Yang, Youngkyung Seo, Du-Seong
+  Chang, and Minjoon Seo.
+\newblock How do large language models acquire factual knowledge during
+  pretraining?
+\newblock In {\em The Thirty-eighth Annual Conference on Neural Information
+  Processing Systems}, 2024.
+
+\bibitem{text-search/ReSearch}
+Mingyang Chen, Tianpeng Li, Haoze Sun, Yijie Zhou, Chenzheng Zhu, Fan Yang,
+  Zenan Zhou, Weipeng Chen, Haofen Wang, Jeff~Z Pan, et~al.
+\newblock Learning to reason with search for llms via reinforcement learning.
+\newblock {\em arXiv preprint arXiv:2503.19470}, 2025.
+
+\bibitem{vision-rag/murag}
+Wenhu Chen, Hexiang Hu, Xi~Chen, Pat Verga, and William~W Cohen.
+\newblock Murag: Multimodal retrieval-augmented generator for open question
+  answering over images and text.
+\newblock {\em arXiv preprint arXiv:2210.02928}, 2022.
+
+\bibitem{dataset/infoseek}
+Yang Chen, Hexiang Hu, Yi~Luan, Haitian Sun, Soravit Changpinyo, Alan Ritter,
+  and Ming-Wei Chang.
+\newblock Can pre-trained vision and language models answer visual
+  information-seeking questions?
+\newblock {\em arXiv preprint arXiv:2302.11713}, 2023.
+
+\bibitem{vision-rag/rag-vl}
+Zhanpeng Chen, Chengjin Xu, Yiyan Qi, and Jian Guo.
+\newblock Mllm is a strong reranker: Advancing multimodal retrieval-augmented
+  generation via knowledge-enhanced reranking and noise-injected training.
+\newblock {\em arXiv preprint arXiv:2407.21439}, 2024.
+
+\bibitem{lmm/internvl}
+Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong,
+  Qinglong Zhang, Xizhou Zhu, Lewei Lu, et~al.
+\newblock Internvl: Scaling up vision foundation models and aligning for
+  generic visual-linguistic tasks.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, 2024.
+
+\bibitem{text-rag/uprise-finetune}
+Daixuan Cheng, Shaohan Huang, Junyu Bi, Yuefeng Zhan, Jianfeng Liu, Yujing
+  Wang, Hao Sun, Furu Wei, Denvy Deng, and Qi~Zhang.
+\newblock Uprise: Universal prompt retrieval for improving zero-shot
+  evaluation.
+\newblock {\em arXiv preprint arXiv:2303.08518}, 2023.
+
+\bibitem{dataset/simplevqa}
+Xianfu Cheng, Wei Zhang, Shiwei Zhang, Jian Yang, Xiangyuan Guan, Xianjie Wu,
+  Xiang Li, Ge~Zhang, Jiaheng Liu, Yuying Mai, et~al.
+\newblock Simplevqa: Multimodal factuality evaluation for multimodal large
+  language models.
+\newblock {\em arXiv preprint arXiv:2502.13059}, 2025.
+
+\bibitem{claude-deep-research}
+{Claude}.
+\newblock {Claude takes research to new places}.
+\newblock \url{https://www.anthropic.com/news/research/}.
+\newblock Technical Report, 2025.
+
+\bibitem{intro/hallucination-risk-1}
+Chenhang Cui, Yiyang Zhou, Xinyu Yang, Shirley Wu, Linjun Zhang, James Zou, and
+  Huaxiu Yao.
+\newblock Holistic analysis of hallucination in gpt-4v (ision): Bias and
+  interference challenges.
+\newblock {\em arXiv preprint arXiv:2311.03287}, 2023.
+
+\bibitem{dataset/sail-douyin}
+Hongyuan Dong, Zijian Kang, Weijie Yin, Xiao Liang, Chao Feng, and Jiao Ran.
+\newblock Scalable vision language model training via high quality data
+  curation.
+\newblock {\em arXiv preprint arXiv:2501.05952}, 2025.
+
+\bibitem{bench/mme}
+Chaoyou Fu, Peixian Chen, Yunhang Shen, Yulei Qin, Mengdan Zhang, Xu~Lin,
+  Jinrui Yang, Xiawu Zheng, Ke~Li, Xing Sun, Yunsheng Wu, and Rongrong Ji.
+\newblock Mme: A comprehensive evaluation benchmark for multimodal large
+  language models.
+\newblock {\em arXiv preprint arXiv:2306.13394}, 2023.
+
+\bibitem{dataset/livevqa}
+Mingyang Fu, Yuyang Peng, Benlin Liu, Yao Wan, and Dongping Chen.
+\newblock Livevqa: Live visual knowledge seeking.
+\newblock {\em arXiv preprint arXiv:2504.05288}, 2025.
+
+\bibitem{gemini-deep-research}
+{Google}.
+\newblock {Try Deep Research and our new experimental model in Gemini, your AI
+  assistant}.
+\newblock
+  \url{https://blog.google/products/gemini/google-gemini-deep-research/}.
+\newblock Technical Report, 2025.
+
+\bibitem{rl/deepseek-r1}
+Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Ruoyu Zhang, Runxin Xu,
+  Qihao Zhu, Shirong Ma, Peiyi Wang, Xiao Bi, et~al.
+\newblock Deepseek-r1: Incentivizing reasoning capability in llms via
+  reinforcement learning.
+\newblock {\em arXiv preprint arXiv:2501.12948}, 2025.
+
+\bibitem{vision-rag/avis}
+Ziniu Hu, Ahmet Iscen, Chen Sun, Kai-Wei Chang, Yizhou Sun, David Ross,
+  Cordelia Schmid, and Alireza Fathi.
+\newblock Avis: Autonomous visual information seeking with large language model
+  agent.
+\newblock {\em Advances in Neural Information Processing Systems}, 2023.
+
+\bibitem{vision-rag/reveal}
+Ziniu Hu, Ahmet Iscen, Chen Sun, Zirui Wang, Kai-Wei Chang, Yizhou Sun,
+  Cordelia Schmid, David~A Ross, and Alireza Fathi.
+\newblock Reveal: Retrieval-augmented visual-language pre-training with
+  multi-source multimodal knowledge memory.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, 2023.
+
+\bibitem{lmm/gpt4o}
+Aaron Hurst, Adam Lerer, Adam~P Goucher, Adam Perelman, Aditya Ramesh, Aidan
+  Clark, AJ~Ostrow, Akila Welihinda, Alan Hayes, Alec Radford, et~al.
+\newblock Gpt-4o system card.
+\newblock {\em arXiv preprint arXiv:2410.21276}, 2024.
+
+\bibitem{text-rag/atlas-finetune}
+Gautier Izacard, Patrick Lewis, Maria Lomeli, Lucas Hosseini, Fabio Petroni,
+  Timo Schick, Jane Dwivedi-Yu, Armand Joulin, Sebastian Riedel, and Edouard
+  Grave.
+\newblock Few-shot learning with retrieval augmented language models.
+\newblock {\em arXiv preprint arXiv:2208.03299}, 2022.
+
+\bibitem{rl/openai-o1}
+Aaron Jaech, Adam Kalai, Adam Lerer, Adam Richardson, Ahmed El-Kishky, Aiden
+  Low, Alec Helyar, Aleksander Madry, Alex Beutel, Alex Carney, et~al.
+\newblock Openai o1 system card.
+\newblock {\em arXiv preprint arXiv:2412.16720}, 2024.
+
+\bibitem{vision-rag/mmsearch}
+Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanmin Wu, Jiayi Lei, Pengshuo Qiu, Pan
+  Lu, Zehui Chen, Chaoyou Fu, Guanglu Song, et~al.
+\newblock Mmsearch: Benchmarking the potential of large models as multi-modal
+  search engines.
+\newblock {\em arXiv preprint arXiv:2409.12959}, 2024.
+
+\bibitem{text-search/search-r1}
+Bowen Jin, Hansi Zeng, Zhenrui Yue, Jinsung Yoon, Sercan Arik, Dong Wang, Hamed
+  Zamani, and Jiawei Han.
+\newblock Search-r1: Training llms to reason and leverage search engines with
+  reinforcement learning.
+\newblock {\em arXiv preprint arXiv:2503.09516}, 2025.
+
+\bibitem{intro/pretrain-limit-1}
+Nikhil Kandpal, Haikang Deng, Adam Roberts, Eric Wallace, and Colin Raffel.
+\newblock Large language models struggle to learn long-tail knowledge.
+\newblock In {\em International Conference on Machine Learning}, 2023.
+
+\bibitem{text-rag/DPR}
+Vladimir Karpukhin, Barlas Oguz, Sewon Min, Patrick~SH Lewis, Ledell Wu, Sergey
+  Edunov, Danqi Chen, and Wen-tau Yih.
+\newblock Dense passage retrieval for open-domain question answering.
+\newblock In {\em EMNLP}, 2020.
+
+\bibitem{bench/ai2d}
+Aniruddha Kembhavi, Mike Salvato, Eric Kolve, Minjoon Seo, Hannaneh Hajishirzi,
+  and Ali Farhadi.
+\newblock A diagram is worth a dozen images.
+\newblock In {\em Computer Vision--ECCV 2016: 14th European Conference,
+  Amsterdam, The Netherlands, October 11--14, 2016, Proceedings, Part IV 14},
+  2016.
+
+\bibitem{text-rag/RAG}
+Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir
+  Karpukhin, Naman Goyal, Heinrich K{\"u}ttler, Mike Lewis, Wen-tau Yih, Tim
+  Rockt{\"a}schel, et~al.
+\newblock Retrieval-augmented generation for knowledge-intensive nlp tasks.
+\newblock {\em Advances in neural information processing systems}, 2020.
+
+\bibitem{lmm/llava-ov}
+Bo~Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen
+  Zhang, Peiyuan Zhang, Yanwei Li, Ziwei Liu, et~al.
+\newblock Llava-onevision: Easy visual task transfer.
+\newblock {\em arXiv preprint arXiv:2408.03326}, 2024.
+
+\bibitem{lmm/aira}
+Dongxu Li, Yudong Liu, Haoning Wu, Yue Wang, Zhiqi Shen, Bowen Qu, Xinyao Niu,
+  Fan Zhou, Chengen Huang, Yanpeng Li, et~al.
+\newblock Aria: An open multimodal native mixture-of-experts model.
+\newblock {\em arXiv preprint arXiv:2410.05993}, 2024.
+
+\bibitem{intro/hallucination-risk-3}
+Yifan Li, Yifan Du, Kun Zhou, Jinpeng Wang, Wayne~Xin Zhao, and Ji-Rong Wen.
+\newblock Evaluating object hallucination in large vision-language models.
+\newblock {\em arXiv preprint arXiv:2305.10355}, 2023.
+
+\bibitem{intro/struggle-1}
+Yunxin Li, Longyue Wang, Baotian Hu, Xinyu Chen, Wanqi Zhong, Chenyang Lyu, Wei
+  Wang, and Min Zhang.
+\newblock A comprehensive evaluation of gpt-4v on knowledge-intensive visual
+  question answering.
+\newblock {\em arXiv preprint arXiv:2311.07536}, 2023.
+
+\bibitem{bench/llava-wilder}
+{Li, Bo and Zhang, Kaichen and Zhang, Hao and Guo, Dong and Zhang, Renrui and
+  Li, Feng and Zhang, Yuanhan and Liu, Ziwei and Li, Chunyuan}.
+\newblock {LLaVA-NeXT: Stronger LLMs Supercharge Multimodal Capabilities in the
+  Wild}.
+\newblock
+  \url{https://llava-vl.github.io/blog/2024-05-10-llava-next-stronger-llms/}.
+\newblock Technical Report, 2024.
+
+\bibitem{lmm/vila}
+Ji~Lin, Hongxu Yin, Wei Ping, Pavlo Molchanov, Mohammad Shoeybi, and Song Han.
+\newblock Vila: On pre-training for visual language models.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, 2024.
+
+\bibitem{intro/hallucination-risk-2}
+Hanchao Liu, Wenyuan Xue, Yifei Chen, Dapeng Chen, Xiutian Zhao, Ke~Wang,
+  Liping Hou, Rongjun Li, and Wei Peng.
+\newblock A survey on hallucination in large vision-language models.
+\newblock {\em arXiv preprint arXiv:2402.00253}, 2024.
+
+\bibitem{lmm/llava}
+Haotian Liu, Chunyuan Li, Qingyang Wu, and Yong~Jae Lee.
+\newblock Visual instruction tuning.
+\newblock {\em Advances in neural information processing systems}, 2023.
+
+\bibitem{bench/ocrbench}
+Yuliang Liu, Zhang Li, Mingxin Huang, Biao Yang, Wenwen Yu, Chunyuan Li,
+  Xu-Cheng Yin, Cheng-Lin Liu, Lianwen Jin, and Xiang Bai.
+\newblock Ocrbench: on the hidden mystery of ocr in large multimodal models.
+\newblock {\em Science China Information Sciences}, 2024.
+
+\bibitem{bench/mathvista}
+Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh
+  Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, and Jianfeng Gao.
+\newblock Mathvista: Evaluating mathematical reasoning of foundation models in
+  visual contexts.
+\newblock {\em arXiv preprint arXiv:2310.02255}, 2023.
+
+\bibitem{text-search/sail}
+Hongyin Luo, Tianhua Zhang, Yung-Sung Chuang, Yuan Gong, Yoon Kim, Xixin Wu,
+  Helen Meng, and James Glass.
+\newblock Search augmented instruction learning.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  EMNLP 2023}, 2023.
+
+\bibitem{dataset/ok-vqa}
+Kenneth Marino, Mohammad Rastegari, Ali Farhadi, and Roozbeh Mottaghi.
+\newblock Ok-vqa: A visual question answering benchmark requiring external
+  knowledge.
+\newblock In {\em Proceedings of the IEEE/cvf conference on computer vision and
+  pattern recognition}, 2019.
+
+\bibitem{bench/chartqa}
+Ahmed Masry, Do~Xuan Long, Jia~Qing Tan, Shafiq Joty, and Enamul Hoque.
+\newblock Chartqa: A benchmark for question answering about charts with visual
+  and logical reasoning.
+\newblock {\em arXiv preprint arXiv:2203.10244}, 2022.
+
+\bibitem{lmm/llama-3.2}
+{Meta}.
+\newblock {Llama 3.2: Revolutionizing edge AI and vision with open,
+  customizable models}.
+\newblock
+  \url{https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/}.
+\newblock Technical Report, 2024.
+
+\bibitem{text-search/webgpt}
+Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina
+  Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders,
+  et~al.
+\newblock Webgpt: Browser-assisted question-answering with human feedback.
+\newblock {\em arXiv preprint arXiv:2112.09332}, 2021.
+
+\bibitem{openai-deep-research}
+{OpenAI}.
+\newblock {Introducing deep research}.
+\newblock \url{https://openai.com/index/introducing-deep-research/}.
+\newblock Technical Report, 2025.
+
+\bibitem{openai-o3_o4_mini_syscard}
+{OpenAI}.
+\newblock {OpenAI o3 and o4-mini System Card}.
+\newblock \url{https://openai.com/index/o3-o4-mini-system-card/}.
+\newblock Technical Report, 2025.
+
+\bibitem{perplexity-deep-research}
+{Perplexity}.
+\newblock {Introducing Perplexity Deep Research}.
+\newblock
+  \url{https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research/}.
+\newblock Technical Report, 2025.
+
+\bibitem{qwen3-tech-report}
+{Qwen Team}.
+\newblock {Qwen3: Think Deeper, Act Faster}.
+\newblock \url{https://qwenlm.github.io/blog/qwen3/}.
+\newblock Technical Report, 2025.
+
+\bibitem{dataset/clip}
+Alec Radford, Jong~Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh,
+  Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark,
+  et~al.
+\newblock Learning transferable visual models from natural language
+  supervision.
+\newblock In {\em International conference on machine learning}, 2021.
+
+\bibitem{text-search/toolformer}
+Timo Schick, Jane Dwivedi-Yu, Roberto Dess{\`\i}, Roberta Raileanu, Maria
+  Lomeli, Eric Hambro, Luke Zettlemoyer, Nicola Cancedda, and Thomas Scialom.
+\newblock Toolformer: Language models can teach themselves to use tools.
+\newblock {\em Advances in Neural Information Processing Systems}, 36, 2023.
+
+\bibitem{rl/ppo}
+John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov.
+\newblock Proximal policy optimization algorithms.
+\newblock {\em arXiv preprint arXiv:1707.06347}, 2017.
+
+\bibitem{text-rag/itergen-infer}
+Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, and Weizhu Chen.
+\newblock Enhancing retrieval-augmented large language models with iterative
+  retrieval-generation synergy.
+\newblock {\em arXiv preprint arXiv:2305.15294}, 2023.
+
+\bibitem{rl/deepseekmath}
+Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei
+  Zhang, Mingchuan Zhang, YK~Li, Y~Wu, et~al.
+\newblock Deepseekmath: Pushing the limits of mathematical reasoning in open
+  language models.
+\newblock {\em arXiv preprint arXiv:2402.03300}, 2024.
+
+\bibitem{code/verl}
+Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru~Zhang,
+  Yanghua Peng, Haibin Lin, and Chuan Wu.
+\newblock Hybridflow: A flexible and efficient rlhf framework.
+\newblock {\em arXiv preprint arXiv:2409.19256}, 2024.
+
+\bibitem{lmm/gemini}
+Gemini Team, Rohan Anil, Sebastian Borgeaud, Jean-Baptiste Alayrac, Jiahui Yu,
+  Radu Soricut, Johan Schalkwyk, Andrew~M Dai, Anja Hauth, Katie Millican,
+  et~al.
+\newblock Gemini: a family of highly capable multimodal models.
+\newblock {\em arXiv preprint arXiv:2312.11805}, 2023.
+
+\bibitem{rl/kimi-k1.5}
+Kimi Team, Angang Du, Bofei Gao, Bowei Xing, Changjiu Jiang, Cheng Chen, Cheng
+  Li, Chenjun Xiao, Chenzhuang Du, Chonghua Liao, et~al.
+\newblock Kimi k1. 5: Scaling reinforcement learning with llms.
+\newblock {\em arXiv preprint arXiv:2501.12599}, 2025.
+
+\bibitem{lmm/kimi-vl}
+Kimi Team, Angang Du, Bohong Yin, Bowei Xing, Bowen Qu, Bowen Wang, Cheng Chen,
+  Chenlin Zhang, Chenzhuang Du, Chu Wei, et~al.
+\newblock Kimi-vl technical report.
+\newblock {\em arXiv preprint arXiv:2504.07491}, 2025.
+
+\bibitem{text-rag/instrcutretro-pretrain}
+Boxin Wang, Wei Ping, Lawrence McAfee, Peng Xu, Bo~Li, Mohammad Shoeybi, and
+  Bryan Catanzaro.
+\newblock Instructretro: Instruction tuning post retrieval-augmented
+  pretraining.
+\newblock {\em arXiv preprint arXiv:2310.07713}, 2023.
+
+\bibitem{text-rag/MDR-infer}
+Huazheng Wang, Jinming Wu, Haifeng Sun, Zixuan Xia, Daixuan Cheng, Jingyu Wang,
+  Qi~Qi, and Jianxin Liao.
+\newblock Mdr: Model-specific demonstration retrieval at inference time for
+  in-context learning.
+\newblock In {\em Proceedings of the 2024 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies (Volume 1: Long Papers)}, pages 4189--4204, 2024.
+
+\bibitem{dataset/100b-pretrain}
+Xiao Wang, Ibrahim Alabdulmohsin, Daniel Salz, Zhe Li, Keran Rong, and Xiaohua
+  Zhai.
+\newblock Scaling pre-training to one hundred billion data for vision language
+  models.
+\newblock {\em arXiv preprint arXiv:2502.07617}, 2025.
+
+\bibitem{dataset/metaclip}
+Hu~Xu, Saining Xie, Xiaoqing~Ellen Tan, Po-Yao Huang, Russell Howes, Vasu
+  Sharma, Shang-Wen Li, Gargi Ghosh, Luke Zettlemoyer, and Christoph
+  Feichtenhofer.
+\newblock Demystifying clip data.
+\newblock {\em arXiv preprint arXiv:2309.16671}, 2023.
+
+\bibitem{vision-rag/visrag}
+Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu,
+  Shuo Wang, Xu~Han, Zhiyuan Liu, et~al.
+\newblock Visrag: Vision-based retrieval-augmented generation on multi-modality
+  documents.
+\newblock {\em arXiv preprint arXiv:2410.10594}, 2024.
+
+\bibitem{text-rag/RankRAG-infer}
+Yue Yu, Wei Ping, Zihan Liu, Boxin Wang, Jiaxuan You, Chao Zhang, Mohammad
+  Shoeybi, and Bryan Catanzaro.
+\newblock Rankrag: Unifying context ranking with retrieval-augmented generation
+  in llms.
+\newblock {\em Advances in Neural Information Processing Systems}, 2024.
+
+\bibitem{code/lmms-eval}
+Kaichen Zhang, Bo~Li, Peiyuan Zhang, Fanyi Pu, Joshua~Adrian Cahyono, Kairui
+  Hu, Shuai Liu, Yuanhan Zhang, Jingkang Yang, Chunyuan Li, et~al.
+\newblock Lmms-eval: Reality check on the evaluation of large multimodal
+  models, 2024b.
+\newblock {\em arXiv preprint arXiv:2407.12772}, 2024.
+
+\bibitem{text-rag/raft-finetune}
+Tianjun Zhang, Shishir~G Patil, Naman Jain, Sheng Shen, Matei Zaharia, Ion
+  Stoica, and Joseph~E Gonzalez.
+\newblock Raft: Adapting language model to domain specific rag.
+\newblock In {\em First Conference on Language Modeling}, 2024.
+
+\bibitem{dataset/2p5-years-in-class}
+Wenqi Zhang, Hang Zhang, Xin Li, Jiashuo Sun, Yongliang Shen, Weiming Lu, Deli
+  Zhao, Yueting Zhuang, and Lidong Bing.
+\newblock 2.5 years in class: A multimodal textbook for vision-language
+  pretraining.
+\newblock {\em arXiv preprint arXiv:2501.00958}, 2025.
+
+\bibitem{lmm/llava-video}
+Yuanhan Zhang, Jinming Wu, Wei Li, Bo~Li, Zejun Ma, Ziwei Liu, and Chunyuan Li.
+\newblock Video instruction tuning with synthetic data.
+\newblock {\em arXiv preprint arXiv:2410.02713}, 2024.
+
+\bibitem{vision-rag/vsa}
+Zhixin Zhang, Yiyuan Zhang, Xiaohan Ding, and Xiangyu Yue.
+\newblock Vision search assistant: Empower vision-language models as multimodal
+  search engines.
+\newblock {\em arXiv preprint arXiv:2410.21220}, 2024.
+
+\bibitem{code/llama-factory}
+Yaowei Zheng, Richong Zhang, Junhao Zhang, Yanhan Ye, Zheyan Luo, Zhangchi
+  Feng, and Yongqiang Ma.
+\newblock Llamafactory: Unified efficient fine-tuning of 100+ language models.
+\newblock {\em arXiv preprint arXiv:2403.13372}, 2024.
+
+\bibitem{text-search/deepresearcher}
+Yuxiang Zheng, Dayuan Fu, Xiangkun Hu, Xiaojie Cai, Lyumanshan Ye, Pengrui Lu,
+  and Pengfei Liu.
+\newblock Deepresearcher: Scaling deep research via reinforcement learning in
+  real-world environments.
+\newblock {\em arXiv preprint arXiv:2504.03160}, 2025.
+
+\end{thebibliography}
